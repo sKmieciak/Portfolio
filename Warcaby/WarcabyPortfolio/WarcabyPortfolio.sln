@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarcabyPortfolio", "WarcabyPortfolio\WarcabyPortfolio.csproj", "{350270F0-7209-4F65-8272-9B02F75A51DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350270F0-7209-4F65-8272-9B02F75A51DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350270F0-7209-4F65-8272-9B02F75A51DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350270F0-7209-4F65-8272-9B02F75A51DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350270F0-7209-4F65-8272-9B02F75A51DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A6942E-8F45-4542-944F-07E17B50EDA5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\bin\Debug\Napisy.srt_rekrutacja.exe.config
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\bin\Debug\Napisy.srt_rekrutacja.exe
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\bin\Debug\Napisy.srt_rekrutacja.pdb
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\obj\Debug\Napisy .srt rekrutacja.csproj.AssemblyReference.cache
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\obj\Debug\Napisy .srt rekrutacja.csproj.SuggestedBindingRedirects.cache
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\obj\Debug\Napisy .srt rekrutacja.csproj.CoreCompileInputs.cache
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\obj\Debug\Napisy.srt_rekrutacja.exe
+C:\Rekrutacja ANTHEAP\Napisy .srt rekrutacja\Napisy .srt rekrutacja\obj\Debug\Napisy.srt_rekrutacja.pdb

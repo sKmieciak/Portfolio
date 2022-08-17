@@ -1,0 +1,8 @@
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Portfolio\Warcaby\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

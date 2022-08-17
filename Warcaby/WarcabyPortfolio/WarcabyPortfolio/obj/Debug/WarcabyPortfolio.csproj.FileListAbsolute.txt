@@ -1,0 +1,11 @@
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\bin\Debug\WarcabyPortfolio.exe.config
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\bin\Debug\WarcabyPortfolio.exe
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\bin\Debug\WarcabyPortfolio.pdb
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.csproj.AssemblyReference.cache
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.csproj.SuggestedBindingRedirects.cache
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.Form1.resources
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.Properties.Resources.resources
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.csproj.GenerateResource.cache
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.csproj.CoreCompileInputs.cache
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.exe
+C:\Portfolio\Warcaby\WarcabyPortfolio\WarcabyPortfolio\obj\Debug\WarcabyPortfolio.pdb
